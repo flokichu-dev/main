@@ -1,6 +1,4 @@
-# main
-
-Flokichu - Play. Win. Earn.
+# Flokichu - Play. Win. Earn.
 
 What is Flokichu?
 
